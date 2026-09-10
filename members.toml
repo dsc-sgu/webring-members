@@ -3,3 +3,9 @@ name = "Студенческие клубы разработки"
 url = "https://dsc.alivetech.org/"
 description = "Сообщество неравнодушных студентов"
 owner = "Community"
+
+[[members]]
+name = "Роберт Толстов"
+url = "https://tolstovrob.space"
+description = "Личное цифровое пространство Роберта Толстова"
+owner = "tolstovrob"
