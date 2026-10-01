@@ -9,3 +9,9 @@ name = "Роберт Толстов"
 url = "https://tolstovrob.space"
 description = "Личное цифровое пространство Роберта Толстова"
 owner = "tolstovrob"
+
+[[members]]
+name = ".redkiy"
+url = "https://artredkiy.com"
+description = "Личное цифровое пространство Артёма Рудяка"
+owner = "Artem Rudiak"
